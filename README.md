@@ -298,10 +298,10 @@ typedef struct binary_tree_s heap_t;
 ## Author
 
 <details>
-    <summary>Ogunjemiyo Olubunmi</summary>
+    <summary>Kouame konan abraham</summary>
     <ul>
-    <li><a href="https://www.github.com/bunmijemiyo">Github</a></li>
-    <li><a href="mailto:bjemiyor@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/konanycode1">Github</a></li>
+    <li><a href="mailto:konanytic2020@gmail.com">e-mail</a></li>
     </ul>
     
 </details>
